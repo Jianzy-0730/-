@@ -1,0 +1,34 @@
+[
+  {
+    "role": "user",
+    "content": ""
+  },
+  {
+    "role": "assistant",
+    "content": "抱歉，您提供的信息不足以回答您的问题。请提供更多关于“晚音”和您的期望的详细信息，以便我为您提供更准确的答案。"
+  },
+  {
+    "role": "user",
+    "content": "停"
+  },
+  {
+    "role": "assistant",
+    "content": "我是一个人工智能助手，很高兴为您服务。有什么我可以帮您的吗？"
+  },
+  {
+    "role": "user",
+    "content": ""
+  },
+  {
+    "role": "assistant",
+    "content": "（出错了：model 'chatglm3' not found）"
+  },
+  {
+    "role": "user",
+    "content": ""
+  },
+  {
+    "role": "assistant",
+    "content": "抱歉刚刚出现了一些问题，让我重新尝试一下。嗨，晚音，今天过得怎么样？"
+  }
+]
